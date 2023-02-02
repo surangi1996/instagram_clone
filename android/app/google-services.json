@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235185845372",
+    "project_id": "instagram-e164b",
+    "storage_bucket": "instagram-e164b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235185845372:android:5ef4534404b46105fec5f9",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235185845372-24fsglmrnnhf8jqggv5h2rp8up99avrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWb1gpzBMpqzqqwq7TYbJTvL_1_NM70kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235185845372-24fsglmrnnhf8jqggv5h2rp8up99avrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
