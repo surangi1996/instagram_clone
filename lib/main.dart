@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         scaffoldBackgroundColor: mobileBackgroundColor,
       ),
-      home: const SignupScreen(),
+      home: const LoginScreen(),
     );
   }
 }
